@@ -124,14 +124,14 @@
             "type": "select",
             "key": "language",
             "options": [
-              "pt",
+              "ko",
               "en",
               "fr",
               "es",
               "ru"
             ],
             "label": "language",
-            "defaultValue": "pt"
+            "defaultValue": "ko"
           },
           {
             "type": "event",
